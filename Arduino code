@@ -27,7 +27,7 @@ analogWrite(BUZZER_PIN, 0);
 }
 }
 }
-20
+
 int getDistance() {
 digitalWrite(TRIG_PIN, LOW);
 delayMicroseconds(2);
